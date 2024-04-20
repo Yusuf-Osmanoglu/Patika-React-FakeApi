@@ -82,7 +82,7 @@ This project is created to develop a web application using React. Within the pro
 ## Technologies Used
 
 - React
-- Axios (for making requests to the fake API)
+- Fetch (for making requests to the fake API)
 - CSS (for styling and design)
 
 ## Screenshot
