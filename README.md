@@ -40,13 +40,6 @@ Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuş
 
 
 
-
-Bu projede, `src` dizini içerisinde bulunan `components` dizininde kullanıcı listesini gösteren bir bileşen bulunmaktadır. Ana uygulama dosyası `App.js` içerisinde bulunmaktadır.
-
-## Katkıda Bulunma
-
-Her türlü geri bildirimi ve katkıyı memnuniyetle karşılıyoruz. Lütfen bir [issue](https://github.com/kullanici/react-projesi/issues) açın veya bir [pull request](https://github.com/kullanici/react-projesi/pulls) gönderin.
-
 ---
 
 # React Project
