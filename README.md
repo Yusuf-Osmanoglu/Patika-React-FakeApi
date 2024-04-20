@@ -13,7 +13,7 @@ Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuş
 2. Proje dizinine gidin:
 
     ```
-    cd react-projesi
+    cd Patika-React-FakeApi
     ```
 
 3. Gerekli bağımlılıkları yükleyin:
@@ -64,7 +64,7 @@ This project is created to develop a web application using React. Within the pro
 2. Navigate to the project directory:
 
     ```
-    cd react-project
+    cd Patika-React-FakeApi
     ```
 
 3. Install the dependencies:
