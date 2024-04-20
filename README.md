@@ -31,12 +31,62 @@ Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuş
 ## Kullanılan Teknolojiler
 
 - React
-- Axios (fake API'ye istek yapmak için)
+- Fetch (fake API'ye istek yapmak için)
 - CSS (stil ve tasarım)
 
 ## Ekran Görüntüsü
 
 ![Proje Ekran Görüntüsü](code.png)
 
-## Proje Yapısı
+
+
+
+Bu projede, `src` dizini içerisinde bulunan `components` dizininde kullanıcı listesini gösteren bir bileşen bulunmaktadır. Ana uygulama dosyası `App.js` içerisinde bulunmaktadır.
+
+## Katkıda Bulunma
+
+Her türlü geri bildirimi ve katkıyı memnuniyetle karşılıyoruz. Lütfen bir [issue](https://github.com/kullanici/react-projesi/issues) açın veya bir [pull request](https://github.com/kullanici/react-projesi/pulls) gönderin.
+
+---
+
+# React Project
+
+This project is created to develop a web application using React. Within the project, there is an example of listing users by fetching data from a fake API.
+
+## How to Run
+
+1. Clone the project:
+
+    ```
+    git clone https://github.com/user/react-project.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```
+    cd react-project
+    ```
+
+3. Install the dependencies:
+
+    ```
+    npm install
+    ```
+
+4. Start the project:
+
+    ```
+    npm start
+    ```
+
+## Technologies Used
+
+- React
+- Axios (for making requests to the fake API)
+- CSS (for styling and design)
+
+## Screenshot
+
+![Project Screenshot](code.png)
+
 
