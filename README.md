@@ -7,7 +7,7 @@ Bu proje, React kullanarak bir web uygulaması geliştirmek için oluşturulmuş
 1. Projenin klonunu alın:
 
     ```
-    git clone https://github.com/kullanici/react-projesi.git
+    git clone https://github.com/Yusuf-Osmanoglu/Patika-React-FakeApi.git
     ```
 
 2. Proje dizinine gidin:
@@ -58,7 +58,7 @@ This project is created to develop a web application using React. Within the pro
 1. Clone the project:
 
     ```
-    git clone https://github.com/user/react-project.git
+    git clone https://github.com/Yusuf-Osmanoglu/Patika-React-FakeApi.git
     ```
 
 2. Navigate to the project directory:
